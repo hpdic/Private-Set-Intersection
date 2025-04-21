@@ -1,3 +1,8 @@
+## HPDIC MOD
+* Extended blog is here: https://bit-ml.github.io/blog/post/private-set-intersection-an-implementation-in-python/
+
+## Original README
+
 We implemented in Python a **Private Set Intersection (PSI)** protocol, a functionality that allows two parties to *privately join their sets* in order to compute their *common elements*. In our setup, these parties are:
 ​
 * a *server* having a large database
